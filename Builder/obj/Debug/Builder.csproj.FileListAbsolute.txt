@@ -1,0 +1,15 @@
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\MainWindow.g.cs
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\App.g.cs
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\Builder_MarkupCompile.cache
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\Builder_MarkupCompile.lref
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\MainWindow.baml
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\Builder.g.resources
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\Builder.Properties.Resources.resources
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\Builder.csproj.GenerateResource.cache
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\pavel_000\Desktop\dev\Builder\Builder\obj\Debug\Builder.pdb
